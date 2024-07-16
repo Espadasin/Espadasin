@@ -12,4 +12,4 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,godot,cpp,nodejs,mysql,php"> 
 </div>
 
-![Snake animation](https://github.com/Espadasin/Espadasin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
