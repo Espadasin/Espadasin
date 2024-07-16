@@ -7,5 +7,5 @@
 </div>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,godot"> 
+  <img src="https://skillicons.dev/icons?i=js,html,css,godot,wasm"> 
 </div>
