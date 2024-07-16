@@ -11,3 +11,5 @@
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css,godot,cpp,nodejs,mysql,php"> 
 </div>
+
+![Snake animation](https://github.com/espadasin/espadasin/blob/output/github-contribution-grid-snake.svg)
