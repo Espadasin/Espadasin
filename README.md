@@ -9,5 +9,5 @@
 ##
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,godot,cpp,nodejs,mysql"> 
+  <img src="https://skillicons.dev/icons?i=js,html,css,godot,cpp,nodejs,mysql,php"> 
 </div>
