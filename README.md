@@ -1,4 +1,4 @@
-## Olá pessoas, meu nome é Victor Otaviano e bem-vindos a meu perfil no github.
+## Hello there, my name's Victor Otaviano and welcome to my github.
 
 <div>
   <a href="https://github.com/Espadasin">
@@ -6,7 +6,7 @@
   </a>
 </div>
 
-##
+## The programming languages that i know.
 
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css,godot,cpp,nodejs,mysql,php"> 
